@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "blobvehicles",
+    "name": "Blob Vehicle Parts",
+    "authors": [ "Blaze-whatdoyoumeanitsalreadytaken" ],
+    "maintainers": [ "SouP" ],
+    "description": "Experimental state, use at your own risk.",
+    "category": "vehicles",
+    "dependencies": [ "dda" ]
+  }
+]
